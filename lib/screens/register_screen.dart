@@ -115,7 +115,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
-          icon: Icon(Icons.arrow_left),
+          icon: Icon(Icons.arrow_back_ios_new, size: 22.0,),
           onPressed: () {
             Navigator.pop(context);
           },

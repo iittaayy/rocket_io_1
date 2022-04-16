@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074243032575",
+    "project_id": "rocketio",
+    "storage_bucket": "rocketio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074243032575:android:70813a9cd790d438fc43ca",
+        "android_client_info": {
+          "package_name": "itayoved.com.rocket_io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074243032575-tols5nrk74gqjcp70jrpes43tepcitlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTH-_p2uAbi7ucSsu3-IGn17CDm4_ylUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074243032575-tols5nrk74gqjcp70jrpes43tepcitlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074243032575-iaojcnffiqvd02r7c1287fuoc6dpehne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itayoved.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
